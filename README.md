@@ -9,3 +9,9 @@
 - I'm pretty motivated to learn new skills and gain the knowledge to become a proper developer.
 - It's been a wild change in my life. I used to be an audiovisual technician and I still am one,
   but I needed to make a change in my life, and I'm sure I will succeed.
+
+## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=OscarRosalesRoca&count_private=true&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarRosalesRoca&layout=compact" />
