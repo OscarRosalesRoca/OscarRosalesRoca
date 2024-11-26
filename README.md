@@ -1,11 +1,13 @@
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+page;My+name+is+%C3%93scar+Rosales+Roca;I+am+studying+coding;Glad+to+see+your+interest+in+my+work" 
-      alt="Typing SVG"
-    >
-  </a>
-</p>
+<div style="background-color: #ffffff; border-radius: 15px; padding: 20px; display: inline-block; text-align: center;">
+  <p align="center">
+    <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+GitHub+page;My+name+is+%C3%93scar+Rosales+Roca;I+am+studying+coding;Glad+to+see+your+interest+in+my+work" 
+        alt="Typing SVG"
+      >
+    </a>
+  </p>
+</div>
 
 
 ## Hi there 👋
