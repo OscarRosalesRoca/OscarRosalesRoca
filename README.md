@@ -10,7 +10,7 @@
 </div>
 
 
-## Hi there 👋
+## Hi there gg👋
 
 <!--
 **OscarRosalesRoca/OscarRosalesRoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
