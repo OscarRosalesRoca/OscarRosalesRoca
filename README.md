@@ -1,4 +1,4 @@
-<div style="background-color: #ffffff; border-radius: 15px; padding: 20px; display: inline-block; text-align: center;">
+<div style="background-color: white; border-radius: 15px; padding: 20px; display: inline-block; text-align: center;">
   <p align="center">
     <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
       <img 
