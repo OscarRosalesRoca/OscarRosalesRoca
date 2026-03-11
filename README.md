@@ -3,13 +3,6 @@
       alt="Typing SVG">
 </p>
 
-# About me 😊
-
-- I'm currently studying MAD (Multimedia Application Development) at DigiTech FP.
-- I'm pretty motivated to learn new skills and gain the knowledge to become a proper developer.
-- It's been a wild change in my life. I used to be an audiovisual technician and I still am one,
-  but I needed to make a change in my life, and I'm sure I will succeed.
-
 ## Tech Stack 💻
 
 | Languages | Languages | Languages | Languages | Languages | Languages |
